@@ -1,5 +1,5 @@
 - 👋 Hi, I’m shiv shankar kumar
-- 👀 I’m interested in fullstack development
+- 👀 I’m interested in fullstack Webdevelopment
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shivssk2002@gmail.com
